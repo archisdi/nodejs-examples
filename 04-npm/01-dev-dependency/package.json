@@ -1,0 +1,15 @@
+{
+  "name": "00-init",
+  "version": "1.0.0",
+  "description": "nodejs-test-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
